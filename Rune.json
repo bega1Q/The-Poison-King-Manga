@@ -13,14 +13,6 @@
         "Bega translation": "/proxy/api/imgchest/chapter/qe4g3qk3jyj"
       }
     },
-    "2.1": {
-      "title": "Chapter 2.1",
-      "volume": "",
-      "last_updated": "1776728653",
-      "groups": {
-        "Bega translation": "/proxy/api/imgur/chapter/kfMooPD"
-      }
-    },
     "2.2": {
       "title": "Chapter 2.2",
       "volume": "",
@@ -59,6 +51,14 @@
       "last_updated": "1781102617",
       "groups": {
         "Bega translation": "/proxy/api/imgchest/chapter/5xy2jom9z7l"
+      }
+    },
+    "2.1": {
+      "title": "Chapter 2.1",
+      "volume": "",
+      "last_updated": "1781102869",
+      "groups": {
+        "Bega translation": "/proxy/api/imgur/chapter/kfMooPD"
       }
     }
   }
