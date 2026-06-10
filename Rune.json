@@ -45,12 +45,14 @@
         "Bega translation": "/proxy/api/imgur/chapter/bTdduXW"
       }
     },
-    "4.1": {
-      "title": "Chapter 4.1",
+    "4.2": {
+      "title": "4.2",
       "volume": "",
-      "last_updated": "1781100689",
+      "last_updated": "1781101078",
       "groups": {
-        "Bega translation": "/proxy/api/imgur/chapter/rune-4-1-LfaBM4x"
+        "Bega translation": [
+          "https://i.imgur.com/IhNWXya.jpeg"
+        ]
       }
     }
   }
