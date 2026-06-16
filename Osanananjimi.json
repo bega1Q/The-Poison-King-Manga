@@ -36,6 +36,38 @@
       "groups": {
         "Bega translation": "/proxy/api/imgchest/chapter/xny8w6wepyb"
       }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "",
+      "last_updated": "1781595701",
+      "groups": {
+        "Bega translation": "/proxy/api/imgchest/chapter/5xy2jmxen7l"
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1781595712",
+      "groups": {
+        "Bega translation": "/proxy/api/imgchest/chapter/xny8w8rlpyb"
+      }
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "",
+      "last_updated": "1781595796",
+      "groups": {
+        "Bega translation": "/proxy/api/imgchest/chapter/qe4g3kzroyj"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1781595990",
+      "groups": {
+        "Bega translation": "/proxy/api/imgchest/chapter/wl7l8dlr64x"
+      }
     }
   }
 }
